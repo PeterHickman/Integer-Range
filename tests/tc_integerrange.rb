@@ -1,6 +1,6 @@
 require 'test/unit'
 
-require 'integerrange'
+require_relative '../integerrange'
 
 class IntegerRangeTestWrapper < Test::Unit::TestCase
 	##

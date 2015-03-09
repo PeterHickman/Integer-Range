@@ -1,6 +1,6 @@
 require 'test/unit'
 
-require 'integerset'
+require_relative '../integerset'
 
 class IntegerSetTestWrapper < Test::Unit::TestCase
 	##
